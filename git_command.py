@@ -19,3 +19,7 @@ print('Python 3')
 # git clone "путь до нужного удаленного репозитория"
 # git push  # загружает все коммиты на удаленный репозиторий
 print('hello work')
+
+number = 'цифра 7'
+
+print(number[0:7])
